@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HOTP0T
-- 👀 I’m interested in geek stuff
+- 👀 I’m interested in Front End Technologies
 - 🌱 I’m currently learning Full Stack Web Dev
 - 💞️ I’m looking to collaborate on Web Dev projects
 - 📫 How to reach me discord : HOTP0T
