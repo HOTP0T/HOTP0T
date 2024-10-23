@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @HOTP0T
-- 👀 I’m interested in the world of Tech
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me @discord : hotp0t
 - 📷 [portfolio-mrz.vercel.app](https://portfolio-mrz.vercel.app)
